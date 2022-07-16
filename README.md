@@ -1,13 +1,9 @@
 # CS317 Covid Support App
 A mobile app prototype which provides COVID related information for the user. Features include an information section, COVID new stories/statistics and a symtom test. Users can also create an account to log their symptom test results and to customize the app to their preference. 
 
-![](https://user-images.githubusercontent.com/71703306/179328423-e6f25a40-a70d-4e9c-80ac-237c45871f7c.png)
-![](https://user-images.githubusercontent.com/71703306/179328427-e31037f1-30b1-44df-b0c3-042b3e22e7b2.png)
-![](https://user-images.githubusercontent.com/71703306/179328435-74d441ed-0bb6-478a-8255-45db442a762a.png)
-![](https://user-images.githubusercontent.com/71703306/179328456-61529436-f353-4d1d-b63c-7b6b69a34175.png)
-![](https://user-images.githubusercontent.com/71703306/179328439-fdfe344d-26c9-4228-b1ec-c3aeea981ad1.png)
-![](https://user-images.githubusercontent.com/71703306/179328444-5e0014c8-7b61-4a61-b5ce-1f71778aea00.png)
-![](https://user-images.githubusercontent.com/71703306/179328450-711d0694-0dca-4662-a5e0-1e37c724a776.png)
+| <img src="https://user-images.githubusercontent.com/80848313/112883274-f945f280-90c5-11eb-9d2e-60cfb0be1e47.png" width="500">   | <img src="https://user-images.githubusercontent.com/80848313/112883412-2d211800-90c6-11eb-8d49-ddbf8328fe21.png" width="500"> | <img src="https://user-images.githubusercontent.com/80848313/112883490-44f89c00-90c6-11eb-8300-4e8a46b9aaf5.png" width="500"> | <img src="https://user-images.githubusercontent.com/80848313/112883881-b3d5f500-90c6-11eb-9156-04be6616268f.png" width="500"> |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://user-images.githubusercontent.com/80848313/112884862-eaf8d600-90c7-11eb-8cc7-20713c07aff4.png" width="500">   | <img src="https://user-images.githubusercontent.com/80848313/112884947-08c63b00-90c8-11eb-8247-39017e668510.png" width="500"> | <img src="https://user-images.githubusercontent.com/80848313/112885156-4fb43080-90c8-11eb-9aaf-0ff07ac14657.png" width="500"> | <img src="https://user-images.githubusercontent.com/80848313/112885289-7d997500-90c8-11eb-94a3-aa33bbe92260.png" width="500"> |
 
 
 # Created By
